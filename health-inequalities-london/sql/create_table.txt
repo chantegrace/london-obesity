@@ -1,0 +1,10 @@
+-- Data imported from master_dataset.csv\
+-- using SQLite Online's Import CSV feature.\
+\
+CREATE TABLE health_inequalities (\
+    Borough TEXT,\
+    average_of_healt REAL,\
+    Obesity_2014 REAL,\
+    Obesity_2024 REAL,\
+    Obesity_Change REAL\
+);}
