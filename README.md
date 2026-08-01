@@ -29,7 +29,7 @@ Public Data -> Excel Cleaning -> Pivot Tables -> XLOOKUP Merge -> SQLite -> Look
 
 ## Dashboard
 link: https://datastudio.google.com/s/oWp2ybApoZo
-(images/dashboard.png)
+![Dashboard](dashboard/Dashboard.png)
 
 ## Key Findings
 - Childhood obesity averaged 28.3% across the 32 London boroughs analysed.
