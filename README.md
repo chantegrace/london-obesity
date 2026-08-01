@@ -27,7 +27,9 @@ Childhood obesity prevalence (2014 & 2024)
 ## Workflow
 Public Data -> Excel Cleaning -> Pivot Tables -> XLOOKUP Merge -> SQLite -> Looker Studio Dashboard
 
-## Dashboard (screenshot)
+## Dashboard
+
+(images/dashboard.png)
 
 ## Key Findings
 - Childhood obesity averaged 28.3% across the 32 London boroughs analysed.
