@@ -28,7 +28,7 @@ Childhood obesity prevalence (2014 & 2024)
 Public Data -> Excel Cleaning -> Pivot Tables -> XLOOKUP Merge -> SQLite -> Looker Studio Dashboard
 
 ## Dashboard
-
+link: https://datastudio.google.com/s/oWp2ybApoZo
 (images/dashboard.png)
 
 ## Key Findings
